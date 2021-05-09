@@ -3,7 +3,8 @@
 Back Propagation 
 
 
-<img width="1217" alt="image" src="https://user-images.githubusercontent.com/73247157/117566721-fcc19600-b0d5-11eb-8490-d9b83ef8e717.png">
+<img width="1077" alt="image" src="https://user-images.githubusercontent.com/73247157/117578469-1bdb1a80-b10c-11eb-964f-20307ced2f78.png">
+
 
 
 
