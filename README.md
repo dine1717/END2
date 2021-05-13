@@ -7,7 +7,8 @@ A Neural Network learns from its mistakes.Each time the system makes an in corre
 
 
 
-<img width="1077" alt="image" src="https://user-images.githubusercontent.com/73247157/117578469-1bdb1a80-b10c-11eb-964f-20307ced2f78.png">
+![image](https://user-images.githubusercontent.com/73247157/118160825-70e49c80-b43c-11eb-8f6b-bc36c2676500.png)
+
 
 
 
