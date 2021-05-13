@@ -2,6 +2,10 @@
 
 Back Propagation 
 
+A Neural Network learns from its mistakes.Each time the system makes an in correct prediction, we use an algorthim called backpropagation to improve its weights.
+
+
+
 
 <img width="1077" alt="image" src="https://user-images.githubusercontent.com/73247157/117578469-1bdb1a80-b10c-11eb-964f-20307ced2f78.png">
 
