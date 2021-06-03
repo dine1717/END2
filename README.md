@@ -14,14 +14,14 @@ Download the StanfordSentimentAnalysis Dataset from this link (http://nlp.stanfo
 	2 = test
 	3 = dev
 > dictionary.txt -> Contains all phrases and their IDs, separated by a vertical line.
-original_rt_snipeets.txt -> Contains 10,605 processed snippets from the original pool of Rotten Tomatoes HTML files. Please note that some snippet may contain multiple sentences.
-sentiments_labels.txt -> Contains all phrase ids and the corresponding sentiment labels, separated by a vertical line.
+>original_rt_snipeets.txt -> Contains 10,605 processed snippets from the original pool of Rotten Tomatoes HTML files. Please note that some snippet may contain multiple sentences.
+>sentiments_labels.txt -> Contains all phrase ids and the corresponding sentiment labels, separated by a vertical line.
 Note that you can recover the 5 classes by mapping the positivity probability using the following cut-offs:
 [0, 0.2], (0.2, 0.4], (0.4, 0.6], (0.6, 0.8], (0.8, 1.0]
 for very negative, negative, neutral, positive, very positive, respectively.
 
-SOStr.tx -> Encode the structure of the parse trees. 
-Stree.txt -> Encode the structure of the parse trees. 
+>SOStr.tx -> Encode the structure of the parse trees. 
+>Stree.txt -> Encode the structure of the parse trees. 
 
 Data Extraction:
 
