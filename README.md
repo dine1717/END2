@@ -20,6 +20,21 @@ This file includes:
 ## Model
 ![image](https://user-images.githubusercontent.com/10822997/120690618-154d8200-c4c3-11eb-87d1-bfb9dbf5961b.png)
 
+We use the Embedding and LSTM modules in PyTorch to build a simple model for classifying tweets.
+
+### In this model we create three layers.
+
+* First, the words in our tweets are pushed into an Embedding layer, which we have established as a 300-dimensional vector embedding.
+* That’s then fed into a 2 stacked-LSTMs with 100 hidden features - this is basically the size of hidden state/context vector the dimension of both context/hidden vector will be same (again, we’re compressing down from the 300-dimensional input like we did with images). We are using 2 LSTMs for using the dropout.
+* Finally, the output of the LSTM (the final hidden state after processing the incoming tweet) is pushed through a standard fully connected layer with five outputs to correspond to our five classes.
+
+![image](https://user-images.githubusercontent.com/10822997/120692709-c3f2c200-c4c5-11eb-93e6-ce9a47eff8f5.png)
+Another depiction of architecture
+
+![image](https://user-images.githubusercontent.com/10822997/120693291-7591f300-c4c6-11eb-9eff-1196e0adb973.png)
+
+
+
 ## Data Augmentation
 
 Augmented the data using
