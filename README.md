@@ -12,7 +12,7 @@ datasetSplit.txt -> Contains the sentence index (corresponding to the index in d
 	1 = train
 	2 = test
 	3 = dev
-dictionary.txt -> Contains all phrases and their IDs, separated by a vertical line |
+dictionary.txt -> Contains all phrases and their IDs, separated by a vertical line.
 original_rt_snipeets.txt -> Contains 10,605 processed snippets from the original pool of Rotten Tomatoes HTML files. Please note that some snippet may contain multiple sentences.
 sentiments_labels.txt -> Contains all phrase ids and the corresponding sentiment labels, separated by a vertical line.
 Note that you can recover the 5 classes by mapping the positivity probability using the following cut-offs:
