@@ -9,7 +9,7 @@ Download the StanfordSentimentAnalysis Dataset from this link (http://nlp.stanfo
 
 > datasetSentences.txt -> Contains the sentence index, followed by the sentence string separated by a tab. These are the sentences of the train/dev/test sets.
 
-> datasetSplit.txt -> Contains the sentence index (corresponding to the index in datasetSentences.txt file) followed by the set label separated by a comma:
+# datasetSplit.txt -> Contains the sentence index (corresponding to the index in datasetSentences.txt file) followed by the set label separated by a comma:
 	1 = train
 	2 = test
 	3 = dev
