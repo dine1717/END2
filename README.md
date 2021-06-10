@@ -199,7 +199,7 @@ Hidden shape:  torch.Size([1, 1, 25])
 Cell shape:  torch.Size([1, 1, 25])
 Dense outputs shape:  torch.Size([1, 3])
 ```
-![image](https://user-images.githubusercontent.com/73247157/121564079-b2b33380-ca38-11eb-9519-47aeebc94353.png)
+![Screenshot 2021-06-10 at 10 10 20 PM](https://user-images.githubusercontent.com/73247157/121564276-e5f5c280-ca38-11eb-8c42-f718698f8ca6.png)
 
 
 ### Encoder-Decoder shapes for a random batch
