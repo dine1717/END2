@@ -52,19 +52,51 @@ The training objective of GloVe is to learn word vectors such that their dot pro
 
 
 # Training Logs 
-![image](https://user-images.githubusercontent.com/73247157/126045311-f1f1ac30-b2be-42db-a19e-3f75f7a76a83.png)
 
-![image](https://user-images.githubusercontent.com/73247157/126045319-13256e77-9375-4ed5-99d6-ad4d2c49a46e.png)
+        1m 12s (- 16m 53s) (5000 6%) 3.4134
+        2m 21s (- 15m 20s) (10000 13%) 2.7728
+        3m 30s (- 14m 3s) (15000 20%) 2.4286
+        4m 40s (- 12m 50s) (20000 26%) 2.1855
+        5m 50s (- 11m 40s) (25000 33%) 1.9397
+        6m 59s (- 10m 29s) (30000 40%) 1.7791
+        8m 8s (- 9m 18s) (35000 46%) 1.6084
+        9m 18s (- 8m 8s) (40000 53%) 1.5126
+        10m 28s (- 6m 59s) (45000 60%) 1.3562
+        11m 39s (- 5m 49s) (50000 66%) 1.2694
+        12m 49s (- 4m 39s) (55000 73%) 1.2186
+        13m 59s (- 3m 29s) (60000 80%) 1.1403
+        15m 9s (- 2m 19s) (65000 86%) 1.0582
+        16m 19s (- 1m 9s) (70000 93%) 0.9928
+        17m 31s (- 0m 0s) (75000 100%) 0.9518
+        
+        
+         > i m cultured .
+        = je suis cultive .
+        < je suis cultive . <EOS>
 
-![image](https://user-images.githubusercontent.com/73247157/126045331-e6e89352-7814-4372-aba0-4547cf2b08cb.png)
+        > he s not working much at the moment .
+        = il ne travaille pas beaucoup en ce moment .
+        < il n travaille pas en train de la . <EOS>
 
-![image](https://user-images.githubusercontent.com/73247157/126045337-41d83c05-95d9-4f01-8779-2e6d7e6e78db.png)
+        > you re the teacher .
+        = c est toi la professeur .
+        < c es toi l enseignant . <EOS>
 
-![image](https://user-images.githubusercontent.com/73247157/126045342-d0267419-1ed8-4844-9ff9-cf35eae27ed0.png)
+        > we re retiring .
+        = nous partons a la retraite .
+        < nous sur la . <EOS>
+
+        > you are on the wrong train .
+        = tu es dans le mauvais train .
+        < tu es sur le mauvais . <EOS>
 
 
 # Traing Logs with Glove Emdeddings
 
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/73247157/126046007-faf2904d-ce0e-45a4-adcc-7578eed67c79.png">
+
+
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/73247157/126046016-ee2231b6-2bd5-40a6-a311-226902962c72.png">
 
 
 
