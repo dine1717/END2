@@ -1,5 +1,3 @@
-# END2
-NLP Clourse 
 
 
 # Glove
