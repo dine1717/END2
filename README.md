@@ -69,36 +69,57 @@ The training objective of GloVe is to learn word vectors such that their dot pro
         16m 19s (- 1m 9s) (70000 93%) 0.9928
         17m 31s (- 0m 0s) (75000 100%) 0.9518
         
-        
-         > i m cultured .
-        = je suis cultive .
-        < je suis cultive . <EOS>
+      
 
-        > he s not working much at the moment .
-        = il ne travaille pas beaucoup en ce moment .
-        < il n travaille pas en train de la . <EOS>
-
-        > you re the teacher .
-        = c est toi la professeur .
-        < c es toi l enseignant . <EOS>
-
-        > we re retiring .
-        = nous partons a la retraite .
-        < nous sur la . <EOS>
-
-        > you are on the wrong train .
-        = tu es dans le mauvais train .
-        < tu es sur le mauvais . <EOS>
-
-
-# Traing Logs with Glove Emdeddings
 
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/73247157/126046007-faf2904d-ce0e-45a4-adcc-7578eed67c79.png">
 
 
 <img width="475" alt="image" src="https://user-images.githubusercontent.com/73247157/126046016-ee2231b6-2bd5-40a6-a311-226902962c72.png">
 
+# Traing Logs with Glove Emdeddings
 
+        2m 47s (- 39m 9s) (5000 6%) 3.7187
+        5m 31s (- 35m 56s) (10000 13%) 3.2207
+        8m 16s (- 33m 6s) (15000 20%) 2.9130
+        11m 1s (- 30m 19s) (20000 26%) 2.7696
+        13m 47s (- 27m 35s) (25000 33%) 2.6079
+        16m 33s (- 24m 50s) (30000 40%) 2.4811
+        19m 18s (- 22m 4s) (35000 46%) 2.3559
+        22m 4s (- 19m 18s) (40000 53%) 2.3027
+        24m 49s (- 16m 33s) (45000 60%) 2.2148
+        27m 34s (- 13m 47s) (50000 66%) 2.1322
+        30m 19s (- 11m 1s) (55000 73%) 2.0694
+        33m 5s (- 8m 16s) (60000 80%) 1.9891
+        35m 52s (- 5m 31s) (65000 86%) 1.9421
+        38m 37s (- 2m 45s) (70000 93%) 1.8622
+        41m 23s (- 0m 0s) (75000 100%) 1.8206
+        
+> he s a loose cannon .
+= c est un electron libre .
+< il est un peu . . <EOS>
+
+> we re all hungry .
+= nous avons tous faim .
+< nous avons toutes faim . <EOS>
+
+> you re invited .
+= vous etes invites .
+< vous etes invite . <EOS>
+
+> i m always surprised by him .
+= il ne cesse de me surprendre .
+< je suis toujours en retard pour lui . <EOS>
+
+> you re not that old tom .
+= tu n es pas si vieux tom .
+< vous n etes pas aussi vieux que tom . <EOS>
+        
+        
+![image](https://user-images.githubusercontent.com/73247157/126046237-4f875f59-e27c-4743-895d-8579455e79d8.png)
+
+ 
+        
 
 
 
