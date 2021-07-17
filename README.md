@@ -121,7 +121,12 @@ The training objective of GloVe is to learn word vectors such that their dot pro
  
         
 
+Comparsion between without pretrained embedding and  with pretrained embedding
+        
+Model	Average Loss	Total Time
+without pre trained embedding	0.9518	17m
+with pre trained Glove embedding	1.8206	41m![image](https://user-images.githubusercontent.com/73247157/126046465-ab2f86ee-4915-4bec-92f8-d26a5be41488.png)
 
-
+By seeing the Loss numbers we have lesser loss from without pretrained embeeding model co,pared with the trained embeeding model with Glove        
 
 
