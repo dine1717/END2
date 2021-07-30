@@ -18,7 +18,7 @@ Take the  [code](https://github.com/aladdinpersson/Machine-Learning-Collection/b
 
 
 1. Multi30k Dataset has been used.
-2. Transalation 
+2. Transalation  German to English
 3. Training Logs
 
 
