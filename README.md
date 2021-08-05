@@ -8,10 +8,11 @@ Objective: Your assignment is to remove all the legacy stuff from this and submi
 3. Link to your repo
 
 
-github link :
+  Github link : https://github.com/dine1717/END2/blob/Session13/Session13.ipynb
 
-Training Logs:
-<img width="547" alt="Screenshot 2021-08-06 at 3 28 35 AM" src="https://user-images.githubusercontent.com/73247157/128426631-553fa8cb-b894-4f29-a17f-1a05aa2d1eb5.png">
+1. Training Logs:
+
+  <img width="547" alt="Screenshot 2021-08-06 at 3 28 35 AM" src="https://user-images.githubusercontent.com/73247157/128426631-553fa8cb-b894-4f29-a17f-1a05aa2d1eb5.png">
 
 2. Sample Translation for 10 Examples:
 
