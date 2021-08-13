@@ -120,3 +120,10 @@
     sentence  > i never know which papers sandy has read , but i usually know how many .
     predicted < acceptable
     true cls  = acceptable
+
+
+# Task 3
+
+## Training Log
+
+![Screenshot 2021-08-14 at 12 17 34 AM](https://user-images.githubusercontent.com/73247157/129405262-34f6dae8-b745-400c-91ca-e3548fc316c5.png)
