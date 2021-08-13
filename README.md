@@ -131,51 +131,66 @@
 
 # Output Logs:
 
-    Text  > The medals were presented by Carlo Croce , IOC member , New Zealand and Barbara Kendall , President of World Sailing .
-    Pred  < Paraphrase : The medals were presented by Carlo Croce, IOC member, New Zealand and Barbara Kendall, President of World Sailing.
-    Truth = The medals have been presented by Carlo Croce , IOC - member , New Zealand , and Barbara Kendall , president of World Sailing .
+    Text  > Why don't people look things up on the internet before asking Quora?
+    Pred  < Why do so many people ask questions on Quora?
+    Truth = Why don't Quora people just look up the answer on Google?
 
-    Text  > The BBC College of Journalism was opened as an e-learning course series in June 2005 , with Vin Ray as Executive Editor . Its first Director was Kevin Marsh .
-    Pred  < Paraphrase : The BBC College of Journalism was opened in June 2005 as an e-learning course series with Vin Ray as Executive Editor, and its first director was Kevin Marsh.
-    Truth = In June 2005 , the BBC College of Journalism was opened as an e-learning series with Vin Ray as Executive Editor , whose first director was Kevin Marsh .
+    Text  > What is an example of moral conflict?
+    Pred  < What is a good example of moral conflict?
+    Truth = What is a moral conflict? What are examples of this?
 
-    Text  > The original team was produced by the writer Sal Buscema and artist Roy Thomas in `` The Avengers '' # 71 ( December 1969 ) .
-    Pred  < Paraphrase : The original team was produced by writer Sal Buscema and artist Roy Thomas in `` The Avengers '' # 71 ( December 1969 ).
-    Truth = The original team was created by writer Sal Buscema and artist Roy Thomas in `` The Avengers '' # 71 ( December 1969 ) .
+    Text  > Are the orbits of the planets synchronized on the same plane?
+    Pred  < Paraphrase: Are the orbits of the planets synchronized on the same plane?
+    Truth = Are the orbits of each planets coplanar?
 
-    Text  > Katuwana Divisional Secretariat is a Divisional Secretariat of Southern Province , of Hambantota District , Sri Lanka .
-    Pred  < Paraphrase : Katuwana Divisional Secretariat is a divisional secretariat of the Southern Province, of Hambantota District, Sri Lanka.
-    Truth = Katuwana Divisional Secretariat is a Divisional Secretariat of the Southern Province of Hambantota District , Sri Lanka .
+    Text  > For what reasons have you been edit blocked on Quora?
+    Pred  < What do you think is the reason you have been blocked on Quora?
+    Truth = If you've never been edit blocked on Quora, to what do you attribute that?
 
-    Text  > Mats Wilander defeats Anders Järryd , 6 -- 4 , 3 -- 6 , 7 -- 5 .
-    Pred  < Paraphrase : Mats Wilander defeats Anders Järryd, 6 -- 4, 3 -- 6, 7 -- 5.
-    Truth = Mats Wilander defeats Anders Järryd , 6 -- 4 , 3 - 6 , 7 -- 5 .
+    Text  > I do masturbation twice in a day. Does masturbation affects men's sperm count or does it cause infertility?
+    Pred  < Paraphrase: I do masturbation twice a day. Does masturbation affect men's sperm count or does it cause infertility?
+    Truth = Does masturbation cause infertility?
 
-    Text  > The Communists firmly believed that the Central Intelligence Agency supported these protests discreetly financially and otherwise .
-    Pred  < Paraphrase : The Communists firmly believed that the Central Intelligence Agency quietly supported these protests financially and otherwise.
-    Truth = The communists strongly believed that the Central Intelligence Agency discreetly supported these protests , financially and otherwise .
+    Text  > What would happen if I went back in time and killed hitler as a baby?
+    Pred  < What would happen if I went back in time and killed hitler as a baby?
+    Truth = If I had a time machine, what would happen if I went back in time to assassinate Hitler?
 
-    Text  > Another way to control the population of deer is to regulate the birth rate .
-    Pred  < Paraphrase : Another way to control the population of deer is to regulate the birth rate.
-    Truth = Another way to regulate deer population is to control the birth rate .
+    Text  > How many bones are in a shark's body?
+    Pred  < How many bones are in a shark's body?
+    Truth = How many bones do sharks have?
 
-    Text  > In his Berlin study , three figures hanged on the wall : Schopenhauer , Maxwell , Faraday .
-    Pred  < Paraphrase : In his Berlin study, three figures were hanged on the wall : Schopenhauer, Maxwell, Faraday.
-    Truth = In his Berlin study , three figures hang on the wall : Faraday , Maxwell , Schopenhauer .
+    Text  > Is it safe to lose 75 pound in 2 months?
+    Pred  < Par it safe to lose 75 pounds in 2 months?
+    Truth = What are some ideas on how to lose 75 pounds in 2 months?
 
-    Text  > The port of Tubarão is a port at Espírito Santo , near the city of Vitória in Brazil .
-    Pred  < The port of Tubarão is a port at Espírito Santo, near the city of Vitória in Brazil.
-    Truth = The Port of Tubarão is a port in Espírito Santo , near the city of Vitória in Brazil .
+    Text  > Should we buy unboxed phones?
+    Pred  < Is should I buy unboxed phones?
+    Truth = Should we buy unboxed mobiles?
 
-    Text  > Tell his father , Zac MacGuire ( Charlie Clausen ) and Evie immediately .
-    Pred  < Paraphrase : Tell his father, Zac MacGuire ( Charlie Clausen ) and Evie immediately.
-    Truth = Tell him immediately his father , Charlie Clausen ( Zac MacGuire ) and Evie .
+    Text  > English cooking dominated early national cooking ; but as new immigrants arrived from other countries, other colonial soups gained popularity.
+    Pred  < Paraphrase: English cooking dominated early national cooking ; but as new immigrants arrived from other countries, other colonial soups gained popularity.
+    Truth = Cooking dominated early national cuisine, but as new immigrants arrived from other countries, other colonial soups gained popularity.
 
-    Text  > He was born in Frederiksberg and has died in Copenhagen .
-    Pred  < He was born in Frederiksberg and died in Copenhagen.
-    Truth = He was born in Frederiksberg and died in Copenhagen .
+    Text  > If you want to guess the average IQ of people on Quora, what would it be?
+    Pred  < Paraphrase: If you want to guess the average IQ of people on Quora, what would it be?
+    Truth = What is the average IQ on Quora?
 
-    Text  > When the PPC is temporarily disrupted , especially the PPC of the right hemisphere , memory across saccades is significantly weakened .
-    Pred  < Paraphrase : When the PPC is temporarily disrupted, especially the Ppc of the right hemisphere, memory across saccades is significantly weakened.
-    Truth = When the PPC is temporarily disrupted , especially the PPC on the right , memory of saccades is significantly weakened .
+    Text  > Have you ever seen any ghost?
+    Pred  < What you have ever seen a ghost?
+    Truth = Has anyone ever seen real ghosts/scientifically unexplainable things?
 
+    Text  > How can I overcome lack of motivation?
+    Pred  < How do I overcome lack of motivation?
+    Truth = How does one overcome extreme laziness and lack of motivation?
+
+    Text  > How exactly does banning Rs 500 and Rs 1000 notes curb the problem of black money?
+    Pred  < How will banning 500 and 1000 rupee notes help in curbing black money?
+    Truth = How banning 500 and 1000 rs note will help fight corruption in India?
+
+    Text  > What was the craziest thing you have done?
+    Pred  < What is the craziest thing you have ever done?
+    Truth = What is the craziest thing you have ever done in your lifetime?
+
+    Text  > How could I get rid of Facebook addiction?
+    Pred  < How do I get rid of Facebook addiction?
+    Truth = What should I do to get rid of addictions?
